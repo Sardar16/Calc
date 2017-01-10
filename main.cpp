@@ -22,7 +22,7 @@ int main()
     cout << "2) Subtract: -\n";
     cout << "3) Multiply: *\n";
     cout << "4) Divide:   /\n";
-//  cout << "5) Multiply By: ^\n";
+//  cout << "5) Multiply By: \n";
     cin >> usrInput1;
     cout << "";
 
@@ -101,5 +101,4 @@ int main()
     }
 }
 }
-// A little bit of UI changes.
 // Fifth Operator is going to be the next up coming feature of this application.
